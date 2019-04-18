@@ -1,0 +1,500 @@
+1) Jaka funkcja sluzy do wypisywania zmiennych?:
+a) random
+b) print
+c) round 
+b
+2) Jakie mamy rodzaje instrukcji warunkowych?
+a) switch 
+b) for
+c) if
+c
+3)Liczby calkowite przechowuje sie w zmiennej o nazwie?:
+a)int;
+b)float;
+c)complex;
+a
+4)Co oznacza podwojny znak "=" (==)?:
+a)przypisanie; 
+b)rowna sie;
+c)obie odpowiedzi sa pooprawne;
+b
+5)Zapis postaci 2**3 oznacza:
+a)potegowanie; 
+b)dzielenie z reszta;
+c)mnozenie;
+a
+6)W nawiasach okraglych wyswietlana jest: 
+a)lista 
+b)zbior
+c)kolejka
+c
+7)W jaki sposob definiuje sie nowe funkcje w pythonie?:
+a)def
+b)void
+c)int
+a
+8)Czy w funkcjach uzywamy nawiasow?
+a)tak,klamer
+b)nie
+c)tak, okraglych
+b
+9)Jak nazywa sie funkcja pobierajaca dane od uzytkownika?
+a)input
+b)scanf
+c)print
+a
+10)Tryb odczytu pliku to
+a)'r'
+b)'a'
+c)’w'
+a
+11)Funkcja sluzaca do losowania to:
+a)losuj()
+b)input()
+c)random()
+c
+12)Prawidlowy sposob dodawania elementow do listy zostal przedstawiony w odpowiedzi:
+a)"lista(element)append";
+b)"lista.append(element)";
+c)”append.lista(element)";
+b
+13)Jak nazywa sie funkcja sluzaca do zaokraglania liczb?:
+a)abs;
+b)round;
+c)pow;
+b
+14)Jaki jest wynik dzia³ania 2**3**2?:
+a)512;
+b)64;
+c)128;
+a
+15)Mamy podane  s='PYTHON'. Polecenie >>>print(s[:len(s)-1]) wyswietli:
+a)PYTHON;
+b)YTHON;
+c)PYTHO;
+c
+16)Jak nazywa sie modul z funkcjami matematycznymi?
+a)fmath
+b)math
+c)math.h
+b
+17)Metoda napis.count("a") ma na celu:
+a)sprawdzenie, ile razy w tekscie ujetym w zmiennej napis pojawia siê znak lub ci¹g ujêty w cudzys³ów
+b)dodanie litery a do tekstu
+c)policzenie dlugosci tekstu, poczawszy od litery a
+a
+18)Zmienna napis="abcdefg". Polecenie print(napis[::]) wypisze:
+a)nic
+b)ag
+c)abcdefg
+c
+19)Jaki jest cel polecenia napis.upper()?
+a)zamiana pierwszej litery na duza
+b)zamiana liter na male
+c)zamiana liter na du¿e
+c
+20)Polecenie "x==5 or 3" zwroci:
+a)3
+b)5
+c)5 lub 3
+a
+21)Typ bool jest typem danych:
+a)tekstowym
+b)logicznym
+c)numerycznym
+b
+22)Co powoduje przerwanie aktualnie wykonywanej petli i przejœcie do kolejnej iteracji?:
+a)break
+b)continue
+c)pass
+b
+23)Czy ".sort()" to operator zmieniaj¹cy listê (mutuj¹cy)?
+a)tak
+b)nie
+c)zadna z powyzszych
+a
+24)Do czego sluzy funkcja "ord()"?:
+a)do sortowania
+b)zwraca kod ASCII podanego stringa
+c)zamienia liczbe na system szesnastkowy
+b
+25)Funkcja chr() sluzy do:
+a)pobierania wartosci podanej przez uzytkownika
+b)zamienia podana liczbe na litere
+c)z pozycji w tablicy ASCII konwertuje kod na znak Unicode
+c
+26)Jak wygl¹da uzycie komentarza w Pythonie?:
+a)//......
+b)#......
+c)......#
+b
+27)Jakiego znaku uzywa sie w komentarzu?:
+a)#
+b)//
+c)\\
+a
+28)Zbior wyswietlany jest w:
+a)nawiasach kwadratowych
+b)nawiasach okraglych
+c)w klamerkach
+c
+29)Poprawny sposob zapisania napisu to:
+a)"napis"
+b)'napis'
+c)obie odpowiedzi sa poprawne
+c
+30)Do zwracania wartosci sluzy:
+a)return
+b)print
+c)input
+a
+31)Lista wyswietlana jest w:
+a)nawiasach okraglych
+b)nawiasach kwadratowych
+c)klamerkach
+b
+32)Znaki "%d" wstawione do tekstu zostana zamienione wartoscia zmiennej typu:
+a)int
+b)string
+c)float
+a
+33)"%f" odnosi sie do:
+a)liczb calkowitych
+b)liczb zmiennoprzecinkowych
+c)napisow
+b
+34)"%s" odnosi sie do:
+a)liczb calkowitych
+b)liczb zmiennoprzecinkowych
+c)napisow
+c
+35)Polecenie "s.remove(x)" ma na celu (s jest lista):
+a)usuniecie elementu x z listy s
+b)dodanie elementu x do listy s
+c)zadna z powyzszych
+a
+36)polecenie "s.strip()" ma na celu:
+a)dodanie bialych znakow na poczatku i na koncu
+b)usuniecie pocz¹tkowych i koñcowych bia³ych znakow
+c)zadna z powyzszych
+b
+37)Co oznacza znak "="?:
+a)przypisanie; 
+b)rowna sie;
+c)obie odpowiedzi sa pooprawne;
+a
+38)Tryb zapisu do pliku to:
+a)"a"
+b)"w"
+c)"r"
+b
+39)Tryb nadpisania do pliku to:
+a)"r"
+b)"a"
+c)"w"
+a
+40)Importowanie modulow odbywa sie za pomoca:
+a)import
+b)include
+c)zadna z powyzszych
+a
+41)Python jest jezykiem interpretowanym:
+a)sredniego poziomu
+b)niskiego poziomu
+c)wysokiego poziomu
+c
+42)Napisy przechowuje sie w zmiennej o nazwie:
+a)int
+b)string
+c)char
+b
+43)Liczby zmiennoprzecinkowe przechowuje sie w zmiennej o nazwie:
+a)int
+b)float
+c)double
+b
+44)"random.randit(5,15)" oznacza:
+a)losowa wartosc z przedzialu 5-15
+b)15 losowych wartosci z przedzialu 0-5
+c)5 losowych wartosci z przedzialu 0-15
+a
+45)"random.random()" oznacza:
+a)losowa wartosc
+b)losowa wartosc z przedzialu 0-100
+c)losowa wartosc z przedzialu 0-1
+c
+46)Kontrolka Label sluzy do:
+a)wyœwietlania tekstu lub (rzadziej) elementów graficznych
+b)wczytywania jedno liniowego tekstu
+c)wpisywania, wczytywania i wyœwietlania tekstu wieloliniowego
+a
+47)Kontrolka Scrollbar sluzy do:
+a)ustawiania i wyœwietlania wartoœci liczbowych
+b)wczytywanie wartoœci liczbowych
+c)przewijania
+c
+48)Funkcja divmod(a,b) sluzy do:
+a)dzielenia z reszta a prez b
+b)dzielenia z reszta b prez a
+c)dzielenia
+a
+49)Funkcja hex() sluzy do:
+a)przeksztalcania liczby na jej zapis osemkowy
+b)przeksztalcania liczby na jej zapis binarny
+c)przeksztalcania liczby na jej zapis szesmastkowy
+c
+50)Dlugosc napisu zwraca funkacja:
+a)length()
+b)len()
+c)strlen()
+b
+51)Jak¹ wartosc zwraca operator modulo (%)?:
+a)reszte z dzielenia
+b)wynik z dzielenia
+c)liczy procent z liczby
+a
+52)Czy mozna laczyc napisy za pomoca operatora dodawania?
+a)tak, ale tylko jednosylabowe
+b)nie
+c)tak
+c
+53)Czy mozna "mnozyc" napisy przez liczbe?:
+a)nie, bo nie zgadzaja sie typy
+b)tak
+c)nie, bo spowoduje to zawieszenie programu
+b
+54)Czy mozliwe jest tworzenie tablic o powtarzajacym sie ciagu elementow za pomoca znaku mnozenia?:
+a)tak, ale tylko, gdy tablica zawiera kilka elementow
+b)nie
+c)tak, niewa¿ne jaka jest wielkosc tablicy
+a
+55)Co zrobi metoda .count()?
+a)zlicza liczbe elementow tablicy
+b)dodaje elementy tablicy
+c)ustala wielkosc tablicy
+a
+56)Co wyswietlaja znaki %x lub %X?
+a)liczby rzeczywiste zapisane w systemie szesnastkowym (ma³e/du¿e litery)
+b)liczby ca³kowite zapisane w systemie szesnastkowym (ma³e/du¿e litery)
+c)zamienia liczbe z systemu szesnastkowego na dziesietny
+b
+57)Funkcja len() ma za zadanie:
+a)poinformowac o wielosci znakow
+b)poinformowac, ile zankow interpunkcyjnych zaiera napis
+c)poinformowac, z ilu znakow sklada sie napis
+c
+58)Funkcja napis.lower() ma za zadanie:
+a)zamiane liter na duze
+b)zamiane liter na male
+c)zamiane wielkosci liter na przeciwna
+b
+59)Znaki != oznaczaja:
+a)przypisanie
+b)porównanie
+c)rozne od
+c
+60)Operator "in" oznacza:
+a)sprawdzenie, czy konkretny obiekt znajduje sie w tablicy lub innym obiekcie gromadzacym inne obiekty
+b)dopisanie nowej wartosci do tablicy lub innego obiektu 
+c)usuniêcie wnetrza tablicy
+a
+61)Jaki znak powinien znajdowac sie na koncu linii "if x==2"?
+a)dwukropek (:)
+b)srednik (;)
+c)przecinek (,)
+a
+62)Czy jest roznica pomiedzy operatorem "is" a "=="?
+a)tak, operator is nie sprawdza, czy zmienne maj¹ tak¹ sam¹ wartoœæ, ale czy wskazuj¹ na ten sam obszar w pamiêci komputera
+b)tak, operator == nie sprawdza, czy zmienne maj¹ tak¹ sam¹ wartoœæ, ale czy wskazuj¹ na ten sam obszar w pamiêci komputera
+c)nie
+a
+63)Co sie stanie po uzyciu "not" przed wyrazeniem logicznym?
+a)nic
+b)zmienimy jego wartoœæ na przeciwn¹
+c)spowoduje to blad skladniowy
+b
+64)Co moze spowodowac zakonczenie petli while?
+a)zbyt dlugi czas obracania sie petli
+b)pierwsze nie spelnienie warunku logicznego 
+c)zadna z powyzszych odpowiedzi nie jest poprawna
+a
+65)Kiedy mozemy uzyc "break"?
+a)zawsze
+b)tylko w instrukcji warunkowej if
+c)tylko w petlach while i for
+c
+66)"Continue" pozwala na:
+a)zakonczenie wykonywania petli
+b)opuszczenie jednego bloku instrukcji i przejscie do kolejnego
+c)opuszczenie bloku instrukcji ni¿ej i powrot do nag³ówka pêtli
+c
+67)Czy stworzonych funkcji mozna uzywac w wielu miejscach kodu?
+a)nie, mozna ich uzyc tylko raz
+b)tak, kiedy chcemy
+c)to zalezy od typu funkcji
+b
+68)Czego brakuje w podanym ciagu "def funkcja"?
+a)dwukropka
+b)nawiasow
+c)a i c sa poprawne
+c
+69)Czy slownik i tablica to to samo?  
+a)tak
+b)nie, bo pracuje siê na slowniku w oparciu o klucze (zwane te¿ has³ami)
+c)nie, bo pracuje siê na slowniku w oparciu o indeksy
+b
+70)Klucze (w slownikach) moga byc typu m.in.:
+a)napisy
+b)tablice
+c)a i b sa poprawne
+c
+71)Aby usunac pojedyncza pare klucz, wartoœæ mozemy uzyc:
+a)del ksiazkatelef["Jan"]
+b)ksiazkatelef.pop("Jan")
+c)a i b sa poprawne
+c
+72)W Pythonie moduly sa plikami z rozszerzeniem:
+a).py
+b).c
+c).txt
+a
+73)Do czego sluzy funkcja dir(nazwa_modulu)?:
+a)mo¿emy zobaczyæ, jakie funkcje zosta³y umieszczone w dowolnym module
+b)jest ona uzywana zamiennie z poleceniem import
+c)zadna z powyzszych
+a
+74)Aby dowiedziec sie wiecej na temat funkcji znalezionej poprzez uzycie komendy dir(nazwa_modulu) piszemy:
+a)help(nazwa_funkcji)
+b)help(nazwa_modulu)
+c)help(nazwa_modulu.nazwa_funkcji)
+c
+75)Polecenie "print(tablica[2])" wypisze element o numerze:
+a)3
+b)2
+c)zadna z powyzszych nie jest poprawna
+a
+76)Podaj wynik dzialania ((1+1)**3/6):
+a)3/2
+b)1
+c)1/2
+a
+77)Bledy w zapisie "if x = 4" zawiera odpowiedz:
+a)brak drugiego znaku "="
+b)brak dwukropka oraz drugiego znaku "="
+c)brak nawiasu
+b
+78)Zapis range(6) zawiera wartosci:
+a)od 0 do 5
+b)od 0 do 6
+c)od 1 do 5
+a
+79)Zapis range(2, 30, 3) oznacza
+a)przedzial od 0 do 29 i inkrementacja o 2
+b)przedzial od 2 do 30 i inkrementacja o 3
+c)przedzial od 2 do 23 i inkrementacja o 3
+c
+80)Gdy polecimy wyswietlenie liczb "for x in range(2, 20, 3)", beda to:
+a)2,5,8,11,14,17
+b)2,5,8,11,14,17,20
+c)20,18,16,14,12,10,8,6,4
+a
+81)W jaki sposób powinnismy umieszczac napisy Pythonie?
+a)ujety w cudzyslow
+b)ujety w apostrofy
+c)obie odpowiedzi sa poprawne
+c
+82)Czy "and" i "or" to operatory logiczne?
+a)"and" tak
+b)obie odpowiedzi sa poprawne
+c)"or" tak 
+b
+83)Jak nazywa sie funkcja do sprawdzania typu zmiennej?
+a)type()
+b)typ()
+c)dir()
+a
+84)Zapis "x = 3+5j" oznacza:
+a)liczbe zmiennoprzecinkowa
+b)liczbe zespolona
+c)liczba ca³kowita
+b
+85)Mamy: b = "world"; komenda "print(b[2:5])" wyswietli:
+a)rld
+b)orld
+c)ld
+a
+86)Mamy: a = " Hello, World! "; polecenie: "print(a.strip())" wyswietli: 
+a)"Hello,World!"
+b)"Hello, World!"
+c)"Hello, World!"
+c
+87)Mamy: a = "Hello, World!"; polecenie "print(a.replace("H", "J"))" wyswietli:
+a)"Jello, Jorld!"
+b)"Jello, World!"
+c)"ello, World!"
+b
+88)Mamy: a = "Hello, World!"; polecenie: "print(a.split(","))" wyswietli: # returns ['Hello', ' World!'] 
+a)['Hello', ' World!']
+b)'Hello', ' World!'
+c)[Hello, World!]
+a
+89)Co oznacza zapis "x += 3"?
+a)do wartosci przechowywanej przez zmienna x dodaj liczbe 3
+b)do wartosci przechowywanej przez zmienna x dodaj wartosc przechowywana przez x powiekszana o 3
+c)od wartosci przechowywanej przez zmienna x odejmij liczbe 3
+a
+90)Mamy: x = 5; polecenie "print(x **= 3)" wyswietli:
+a)15
+b)125
+c)25
+b
+91)Za pomoca jakiej biblioteki mozna tworzyc GUI?
+a)random
+b)functools
+c)tkinter
+c
+92)Za pomoca jakiej funkcji mozna usunac ostatni element z listy?
+a)append()
+b)pop()
+c)extend()
+b
+93)Za pomoca jakiej funkcji mozna nadac tytul tworzonego okna GUI?
+a)nazwa_okna.title()
+b)nazwa_okna.append()
+c)nazwa_okna.pack()
+a
+94)Za pomoca jakiej komendy mozna ustawic kolor czcionki?
+a)command=
+b)height=
+c)fg=
+c
+95)Do czego sluzy "command"?
+a)obraz wyswietlany na kontrolce
+b)funkcja przypisana do command wykona sie po kliknieciu
+c)grubosc ramki
+b
+96)Co oznacza zdarzenie "destroy"?
+a)usuniecie 
+b)odkrycie
+c)zmiana rozmiaru
+a
+97)Za pomoca jakiej funkcji tworzymy glowne okna programu w tkinter?
+a)Tk()
+b)title()
+c)geometry()
+a
+98)Za pomoca jakiej funkcji tworzymy glowna petle programu w tkinter?
+a)mainloop()
+b)title()
+c)geometry()
+a
+99)Za pomoca jakiej funkcji ustawiamy rozmiar okna w tkinter?
+a)pop()
+b)geometry()
+c)reduce()
+b
+100)Za pomoca jakiego polecenia ustawiamy kolor tla w tkinter?
+a)fg
+b)text
+c)bg
+c
